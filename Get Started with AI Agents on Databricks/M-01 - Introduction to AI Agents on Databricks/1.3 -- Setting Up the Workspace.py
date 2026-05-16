@@ -273,3 +273,4 @@ spark.sql(f"SELECT * FROM {catalog_name}.{schema_name}.cust_service_data;").disp
 # MAGIC <br/><a href="https://databricks.com/privacy-policy" target="blank">Privacy Policy</a> |
 # MAGIC <a href="https://databricks.com/terms-of-use" target="blank">Terms of Use</a> |
 # MAGIC <a href="https://help.databricks.com/" target="blank">Support</a>
+

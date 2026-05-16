@@ -78,3 +78,4 @@
 # MAGIC - Reason about which Tool(s) to call
 # MAGIC - Call those tools
 # MAGIC - Reason about tool output and either call additional Tool(s) or respond to the user
+

@@ -95,3 +95,4 @@
 # MAGIC ![how-databricks-uses-agents.png](../Includes/images/how-databricks-uses-agents.png "how-databricks-uses-agents.png")
 # MAGIC
 # MAGIC Agents are at the heart of the Databricks Assistant, customer support requests, and the AI/BI Genie.
+

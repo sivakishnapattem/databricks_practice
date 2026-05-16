@@ -67,3 +67,4 @@
 # MAGIC 3. The Most Open Catalog in the Industry
 # MAGIC
 # MAGIC     Unity Catalog is the most open catalog in the industry. We have fully open-sourced the Unity Catalog protocol, ensuring it is compatible with open standards like the Iceberg REST API. This openness means your metadata isn't trapped in a proprietary black box. It allows for a truly interoperable Data Intelligence Platform where your data, your governance, and your AI agents can all communicate seamlessly, regardless of which cloud or tool you choose to use.
+
