@@ -35,3 +35,4 @@
 # MAGIC ### Label Evaluation Datasets
 # MAGIC
 # MAGIC To accelerate the evaluation process, Databricks provides a research-backed API for generating high-quality synthetic data, which immediately unblocks quality assessments without requiring constant input from Subject Matter Experts (SMEs). The system focuses on efficiency by generating a "ground truth" list of facts instead of verbose written responses, making the review process significantly faster for SMEs. These easy-to-use tools allow teams to quickly validate synthetic data against existing benchmarks rather than starting from scratch, ensuring a streamlined path to reliable agent performance.
+

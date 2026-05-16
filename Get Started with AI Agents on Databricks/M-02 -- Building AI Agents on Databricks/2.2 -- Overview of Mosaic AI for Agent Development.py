@@ -33,3 +33,4 @@
 # MAGIC The best models need data intelligence in the form of access to tools. 
 # MAGIC
 # MAGIC Anthropic’s Model Context Protocol (MCP) is first-class in Databricks. This means you can build, run, govern your MCP servers inside the Databricks security perimeter. This is going to be huge. And we now have first-class implementations of Databricks in MCP so your agents can interact with DB.
+

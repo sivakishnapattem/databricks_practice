@@ -40,3 +40,4 @@ SELECT ai_query(
   'agents_dbacademy-get_started_agents-my_first_agent',
   '{"input": [{"role": "user", "content": "Can you tell me the policy for exchanging items?"}]}'
 ) AS Output
+
